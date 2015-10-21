@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    android:orientation="vertical" >
+    
+    <Button
+        android:id="@+id/show_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA99AA"
+        style="@style/TextColor"
+        android:text="@string/show_ip" />
+    
+    <Button
+        android:id="@+id/help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA88AA"
+        style="@style/TextColor"
+        android:text="@string/help" />
+
+    <Button
+        android:id="@+id/open_server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA77AA"
+        style="@style/TextColor"
+        android:textSize="@dimen/open_server_button_size"
+        android:text="@string/open_server" />
+    <Button
+        android:id="@+id/send_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA66AA"
+        style="@style/TextColor"
+        android:textSize="@dimen/open_server_button_size"
+        android:text="@string/send_message" />
+    <Button 
+        android:id="@+id/explanatory_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA55AA"
+        style="@style/TextColor"
+        android:textSize="@dimen/open_server_button_size"
+        android:text="@string/explanatory"/>
+    
+    <Button 
+        android:id="@+id/send_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#AA44AA"
+        style="@style/TextColor"
+        android:text="@string/send_ip"/>
+	
+</LinearLayout>

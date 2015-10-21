@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">指路</string>
+    <string name="welcome">欢迎界面</string>
+	<string name="guide1">引导一</string>
+	<string name="guide2">引导二</string>
+	<string name="guide3">引导三</string>
+	<string name="start">开始</string>
+	<string name="help">求助</string>
+	<string name="show_ip">显示IP</string>
+	<string name="open_server">允许求助</string>
+	<string name="send_message">发送消息</string>
+	<string name="dot">.</string>
+	<string name="message_edit">请输入消息</string>
+	<string name="send_btn">发送</string>
+	<string name="explanatory">使用说明</string>
+	<string name="send_ip">发送IP</string>
+	<string name="explanatory_content">
+	    \n
+	    1.显示IP\n\t\t查看自己手机IP地址\n\n
+	    2.求助\n\t\t输入好友的IP地址，以寻求帮助\n\n
+	    3.允许求助\n\t\t允许求助后，才能帮助好友\n\n
+	    4.发送消息\n\t\t可以向好友发送文字消息\n\n
+	</string>
+</resources>
